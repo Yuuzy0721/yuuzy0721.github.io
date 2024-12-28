@@ -71,16 +71,16 @@ Yuuzy0721 著
 
 #### 1.2.1 解压前的准备
 
-安卓：第一步：打开 **应用市场** ![安卓1](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo1.jpg "安卓1")  
-第二步：点击 **搜索栏** ![安卓2](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo2.jpg "安卓2")  
-第三步：输入“***解压专家***”并点击 **搜索** ![安卓3](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo3.jpg "安卓3")  
-第四步：找到“***解压专家***”并点击 **安装**(因为我安装过了所以截图里的是“打开”) ![安卓4](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo4.jpg "安卓4")  
+安卓：第一步：打开 **应用市场** ![安卓1](..//img/anzhuo1.jpg "安卓1")  
+第二步：点击 **搜索栏** ![安卓2](..//img/anzhuo2.jpg "安卓2")  
+第三步：输入“***解压专家***”并点击 **搜索** ![安卓3](..//img/anzhuo3.jpg "安卓3")  
+第四步：找到“***解压专家***”并点击 **安装**(因为我安装过了所以截图里的是“打开”) ![安卓4](..//img/anzhuo4.jpg "安卓4")  
 第五步：打开“***解压专家***”，在弹出的授权弹窗中全部点击“**仅使用期间允许**”或“**始终允许**”(当然，也可能是“**允许**”)[暂时缺少图片]
 
-鸿蒙：第一步：打开 **应用市场** ![安卓1](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo1.jpg "鸿蒙1")  
-第二步：点击 **搜索栏** ![安卓2](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo2.jpg "鸿蒙2")  
-第三步：输入“***解压专家***”并点击 **搜索** ![安卓3](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo3.jpg "鸿蒙3")  
-第四步：找到“***解压专家***”并点击 **安装**(因为我安装过了所以截图里的是“打开”) ![安卓4](https://bgithub.xyz/Yuuzy0721/yuuzy0721.github.io/tree/main/img/anzhuo4.jpg "鸿蒙4")  
+鸿蒙：第一步：打开 **应用市场** ![安卓1](..//img/anzhuo1.jpg "鸿蒙1")  
+第二步：点击 **搜索栏** ![安卓2](..//img/anzhuo2.jpg "鸿蒙2")  
+第三步：输入“***解压专家***”并点击 **搜索** ![安卓3](..//img/anzhuo3.jpg "鸿蒙3")  
+第四步：找到“***解压专家***”并点击 **安装**(因为我安装过了所以截图里的是“打开”) ![安卓4](..//img/anzhuo4.jpg "鸿蒙4")  
 第五步：打开“***解压专家***”，在弹出的授权弹窗中全部点击“**仅使用期间允许**”或“**始终允许**”[暂时缺少图片]
 
 鸿蒙NEXT：缺少资料 ~~，不写了~~
