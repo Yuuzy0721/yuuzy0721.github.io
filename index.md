@@ -2,7 +2,7 @@
 layout: default
 title: welcom
 nav_exclude: true
-permalink: /
+permalink: 
 ---
 
 
