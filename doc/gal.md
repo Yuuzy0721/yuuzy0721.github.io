@@ -1,3 +1,10 @@
+---
+layout: default
+title:(gal)资源群常见问题解答 
+nav_exclude: true
+permalink: /doc/gal
+---
+
 # (gal)资源群常见问题解答
 
 Yuuzy0721 著
