@@ -5,17 +5,13 @@ nav_exclude: true
 permalink: /doc/gal
 ---
 
-# (gal)资源群常见问题解答 {ignore=true}
+# (gal)资源群常见问题解答
 
 Yuuzy0721 著
 
 注：图片加载超级慢，请耐心等待
 
 **教程暂未完成**
-
-# 目录 {ignore=true}
-
-[toc]
 
 # 前言
 
