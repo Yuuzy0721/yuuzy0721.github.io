@@ -113,5 +113,13 @@ iOS(暂时缺少图片教程)：第一步：打开 **AppStore**
 第四步：找到“***解压专家***”并点击 **获取**  
 第五步：打开“***解压专家***”，在弹出的授权弹窗中全部点击“**允许**”
 
-Windows： ~~摆烂，以后再写~~
-
+Windows： 第一步：在桌面上找到你的 **浏览器**，双击打开它  
+ ![win1](../img/gal/win1.PNG "win1")  
+在win10及以上的Windows系统里，自带的浏览器长这样  
+ ![win2](../img/gal/win2.PNG "win2")  
+第二步：点击 **顶端** 的 **搜索栏**  
+ ![win3](../img/gal/win3.PNG "win3")  
+第三步：输入这个网址："https://cn.bandisoft.com/bandizip/"而后按下回车键  
+第五步：点击“ **下载Bandzip安装包**”  
+ ![win4](../img/gal/win4.PNG "win4")  
+第六步：
