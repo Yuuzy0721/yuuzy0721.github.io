@@ -7,7 +7,7 @@ permalink: /doc/gal
 
 # (gal)资源群常见问题解答
 
-Yuuzy0721 著
+[Yuuzy0721](https://github.com/Yuuzy0721) 著
 
 注：图片加载超级慢，请耐心等待
 
