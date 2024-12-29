@@ -1,6 +1,6 @@
 ---
 layout: default
-title: welcom
+title: welcome
 nav_exclude: true
 permalink: 
 ---
