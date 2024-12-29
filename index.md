@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: welcome
 nav_exclude: true
 permalink: 
