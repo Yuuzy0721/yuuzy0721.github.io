@@ -120,6 +120,6 @@ Windows： 第一步：在桌面上找到你的 **浏览器**，双击打开它
 第二步：点击 **顶端** 的 **搜索栏**  
  ![win3](../img/gal/win3.PNG "win3")  
 第三步：输入这个网址："https://cn.bandisoft.com/bandizip/"而后按下回车键  
-第五步：点击“ **下载Bandzip安装包**”  
+第四步：点击“ **下载Bandzip安装包**”  
  ![win4](../img/gal/win4.PNG "win4")  
-第六步：
+第五步：
