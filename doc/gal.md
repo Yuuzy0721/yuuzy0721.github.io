@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gal
+title: (gal)常见问题解答
 nav_exclude: false
 permalink: /doc/gal
 ---
