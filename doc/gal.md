@@ -1,7 +1,7 @@
 ---
 layout: default
 title: gal
-nav_exclude: true
+nav_exclude: false
 permalink: /doc/gal
 ---
 
