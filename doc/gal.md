@@ -124,4 +124,13 @@ Windows： 第一步：在桌面上找到你的 **浏览器**，双击打开它
 第三步：输入这个网址："https://cn.bandisoft.com/bandizip/"而后按下回车键  
 第四步：点击“ **下载Bandzip安装包**”  
  ![win4](../img/gal/win4.PNG "win4")  
-第五步：
+第五步：下载完成后，点击 **打开文件**  
+![win5](../img/gal/win5.PNG)  
+第六步：在弹出的窗口中点击“**运行**”  
+![win6](../img/gal/win6.PNG)  
+第七步：在安装窗口中选择”**评估版**“  
+![win7](../img/gal/win7.PNG)  
+第八步：选择”**同意并安装**“  
+![win8](../img/gal/win8.PNG)  
+第九步：在弹出的设置中先点击”**立即应用**“，再点击”**确定**“  
+![win9](../img/gal/win9.PNG)
