@@ -7,9 +7,9 @@ permalink:
 
 
 # 杂七杂八的东西
-[随机美图](https://yuuzy0721.github.io/random_img/)
+[随机美图](random_img/)
 
 [随机美图(cloudflare pages)](https://rdimg.pages.dev/)
 
 # 文档
- [(gal)资源群常见问题解答](https://yuuzy0721.github.io/doc/gal)
+ [一些常见的资源相关问题解答](doc/gal)
